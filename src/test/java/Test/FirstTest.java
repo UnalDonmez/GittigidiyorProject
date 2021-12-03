@@ -35,7 +35,7 @@ public class FirstTest extends BaseTest {
         searchPage.SearchMyWord();
         searchPage.BackToHomePage();
         searchPage.SearchCanta();
-        //searchPage.searchCanta();
+        
 
 
     }
